@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#4A1580"/>
+
+  <!-- Inner glow ring -->
+  <circle cx="256" cy="230" r="168" fill="none" stroke="#7B2FBE" stroke-width="8" opacity="0.5"/>
+
+  <!-- Mother body -->
+  <ellipse cx="256" cy="282" rx="60" ry="72" fill="#C084FC"/>
+
+  <!-- Mother head -->
+  <circle cx="256" cy="182" r="38" fill="#C084FC"/>
+
+  <!-- Baby bump -->
+  <circle cx="284" cy="294" r="30" fill="#A855F7"/>
+
+  <!-- Heart -->
+  <path d="M246,258 C246,252 238,247 232,252 C226,258 232,266 246,276 C260,266 266,258 260,252 C254,247 246,252 246,258 Z"
+    fill="#F9A8D4"/>
+
+  <!-- Heartbeat line -->
+  <polyline points="80,230 120,230 136,190 152,270 168,215 184,245 200,230 312,230 328,205 344,258 360,222 376,238 392,230 432,230"
+    fill="none" stroke="#F0ABFC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+
+  <!-- Medical cross bottom -->
+  <rect x="238" y="378" width="36" height="12" rx="6" fill="#E879F9" opacity="0.85"/>
+  <rect x="250" y="366" width="12" height="36" rx="6" fill="#E879F9" opacity="0.85"/>
+
+  <!-- MCM text at bottom -->
+  <text x="256" y="470" font-family="system-ui, sans-serif" font-size="36" font-weight="700"
+    text-anchor="middle" fill="white" letter-spacing="6" opacity="0.9">MCM</text>
+
+</svg>

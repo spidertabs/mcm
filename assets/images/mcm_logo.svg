@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="400" viewBox="0 0 680 400">
+
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="148" fill="#4A1580"/>
+
+  <!-- Outer ring accent -->
+  <circle cx="200" cy="200" r="148" fill="none" stroke="#7B2FBE" stroke-width="6"/>
+  <circle cx="200" cy="200" r="140" fill="none" stroke="#9B4FDE" stroke-width="1" opacity="0.4"/>
+
+  <!-- Mother silhouette body -->
+  <ellipse cx="200" cy="240" rx="46" ry="58" fill="#C084FC"/>
+
+  <!-- Mother head -->
+  <circle cx="200" cy="162" r="28" fill="#C084FC"/>
+
+  <!-- Baby bump -->
+  <circle cx="222" cy="248" r="22" fill="#A855F7"/>
+
+  <!-- Heartbeat line -->
+  <polyline points="72,200 106,200 118,170 130,230 142,190 154,210 166,200 230,200 242,175 254,225 266,195 278,205 290,200 328,200"
+    fill="none" stroke="#F0ABFC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+
+  <!-- Heart on chest -->
+  <path d="M193,208 C193,204 188,200 184,204 C180,208 184,214 193,220 C202,214 206,208 202,204 C198,200 193,204 193,208 Z"
+    fill="#F9A8D4" opacity="0.95"/>
+
+  <!-- Medical cross -->
+  <rect x="188" y="308" width="24" height="8" rx="4" fill="#E879F9" opacity="0.8"/>
+  <rect x="196" y="300" width="8" height="24" rx="4" fill="#E879F9" opacity="0.8"/>
+
+  <!-- App name -->
+  <text x="380" y="170" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#2D1B69" letter-spacing="-1">MaternalCare</text>
+  <text x="380" y="215" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#7B2FBE" letter-spacing="-1">Monitor</text>
+
+  <!-- Tagline -->
+  <text x="381" y="252" font-family="system-ui, sans-serif" font-size="15" fill="#64748B" letter-spacing="0.2">Improving maternal health outcomes</text>
+  <text x="381" y="273" font-family="system-ui, sans-serif" font-size="15" fill="#64748B" letter-spacing="0.2">in Rubare Town Council</text>
+
+  <!-- Divider -->
+  <line x1="380" y1="294" x2="640" y2="294" stroke="#E2E8F0" stroke-width="1"/>
+
+  <!-- ANC badge -->
+  <circle cx="405" cy="330" r="16" fill="#EDE9FE"/>
+  <text x="405" y="335" font-family="system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#7B2FBE">ANC</text>
+
+  <!-- Heart badge -->
+  <circle cx="460" cy="330" r="16" fill="#EDE9FE"/>
+  <path d="M454,328 C454,324 458,322 460,325 C462,322 466,324 466,328 C466,332 460,337 460,337 C460,337 454,332 454,328Z" fill="#A855F7"/>
+
+  <!-- FP badge -->
+  <circle cx="515" cy="330" r="16" fill="#EDE9FE"/>
+  <circle cx="515" cy="330" r="7" fill="none" stroke="#7B2FBE" stroke-width="2"/>
+  <circle cx="515" cy="330" r="2.5" fill="#7B2FBE"/>
+
+  <!-- Version -->
+  <rect x="378" y="354" width="88" height="22" rx="11" fill="#F3F0FF"/>
+  <text x="422" y="369" font-family="system-ui, sans-serif" font-size="11" font-weight="500" text-anchor="middle" fill="#7B2FBE">Version 1.0.0</text>
+
+  <!-- MCM initials -->
+  <circle cx="622" cy="358" r="22" fill="#4A1580"/>
+  <text x="622" y="365" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="white" letter-spacing="1">MCM</text>
+
+</svg>
