@@ -19,7 +19,7 @@
 ## 👥 Project Team
 
 **Institution:** Kampala International University  
-**Programme:** Bachelor of Science in Information Technology  
+**Programme:** Bachelor of Information Technology  
 **Academic Year:** 2025–2026
 
 | Name | Registration Number |
@@ -28,7 +28,7 @@
 | NABAASA IAN | 2023-08-20027 |
 | MUHWEZI MOSES | 2023-08-19125 |
 
-**Supervisor:** Ms Chebet Shillah
+**Supervisor:** Ms Najjuma Christine
 
 ---
 
@@ -324,14 +324,6 @@ This is a Final Year Project. Feedback and suggestions are welcome.
 ## 📬 Contact & Repository
 
 🔗 **GitHub:** [https://github.com/spidertabs/mcm](https://github.com/spidertabs/mcm)
-
-| Member | Registration |
-|---|---|
-| AYINKAMIYE SARAH | 2023-08-21909 |
-| NABAASA IAN | 2023-08-20027 |
-| MUHWEZI MOSES | 2023-08-19125 |
-
-**Supervisor:** Ms Chebet Shillah
 
 ---
 
