@@ -19,7 +19,7 @@
 ## 👥 Project Team
 
 **Institution:** Kampala International University  
-**Programme:** Bachelor of Science in Computer Science  
+**Programme:** Bachelor of Science in Information Technology  
 **Academic Year:** 2025–2026
 
 | Name | Registration Number |
