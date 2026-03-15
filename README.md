@@ -316,7 +316,7 @@ This is a Final Year Project. Feedback and suggestions are welcome.
 ## 🙏 Acknowledgements
 
 - Health workers and administration of **Rubare Town Council** for their invaluable insights during requirements gathering
-- Our supervisor **Ms Chebet Shillah** for her continued guidance and support
+- Our supervisor **Ms Najjuma Christine** for her continued guidance and support
 - The Flutter and Dart open-source community
 
 ---
